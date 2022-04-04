@@ -1,6 +1,2 @@
-#hello world
-
-alx is intoducing me to quite a lot of thi s
-This is my first github repo
-
-I love :pizza:
+#Welcome
+The folder is for the vagrant task[D[D[D[D[D[D[D[D[D[D[D[D[D[Calx vagrant task
